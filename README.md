@@ -1,3 +1,3 @@
 # kdtree-exercise
 
-[Instructions](index.html)
+[Instructions in index.html](https://rawgit.com/ariabuckles/kdtree-exercise/master/index.html)
